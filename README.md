@@ -4,9 +4,9 @@ UC Davis Computer Science grad student working across **data visualization**, **
 
 ## Featured Projects
 
-- **[HeatLens](https://github.com/yanliang1439/heatlens-ecs273)** — Interactive visual analytics for California county-level heat-health risk. Flask API + React/TypeScript dashboard with SHAP explanations and a what-if intervention simulator.
-- **[Verified SQL Engine](https://github.com/yanliang1439/261-Project)** — Core SQL operations (`WHERE` / `SELECT` / `ORDER BY` / `GROUP BY` / `DISTINCT`) implemented in Dafny and formally proven correct with pre/postconditions.
-- **[News Understanding Framework](https://github.com/yanliang1439/ECS271-Final-Project)** — Extractive + abstractive summarization and sentiment analysis with fine-tuned T5 models, served through an interactive Gradio demo.
+- **[HeatLens](https://github.com/yanliang1439/heatlens)** — Interactive visual analytics for California county-level heat-health risk. Flask API + React/TypeScript dashboard with SHAP explanations and a what-if intervention simulator.
+- **[Verified SQL Engine](https://github.com/yanliang1439/verified-sql-engine)** — Core SQL operations (`WHERE` / `SELECT` / `ORDER BY` / `GROUP BY` / `DISTINCT`) implemented in Dafny and formally proven correct with pre/postconditions.
+- **[News Understanding Framework](https://github.com/yanliang1439/news-understanding)** — Extractive + abstractive summarization and sentiment analysis with fine-tuned T5 models, served through an interactive Gradio demo.
 
 ## Tech Stack
 
