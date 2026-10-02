@@ -1,4 +1,4 @@
-# Hi there, I'm Liang 👋
+# Hi there, I'm Yan 👋
 
 UC Davis Computer Science grad student working across **data visualization**, **machine learning**, and **full-stack development**.
 
